@@ -6,7 +6,7 @@ Neste repositório, estão contigos os arquivos:
 
 - "_cortez2009.pdf_" e "_wine5.pdf_", que são artigos baseados no dataset escolhido para a realização do projeto final;
 - "_winequality.names_", que contém informações referentes aos _datasets_ e aos artigos citados acima;
-- "_apresentacao_linkedin.pdf_", que é a apresentação do projeto final destinada à publicação no linkedin;
+- "_projeto_machine_learning_modulo_5.pdf_", que é a apresentação do projeto final destinada à publicação no linkedin;
 - "_apresentacao_final.pdf_", que é a apresentação do passo-a-passo para obtenção do modelo final, utilizada na defesa do projeto;
 - "_Projeto_Final_PoloTech_Modulo-5.ipynb_", que é o arquivo contendo todos os algoritmos e testes feitos para realização do projeto final e, portanto, para obtenção do modelo final desenvolvido pelo grupo.
 
